@@ -6,7 +6,7 @@
 /**
  * Possible value: record | lockdown
  */
-const TEST_MODE = 'lockdown';
+const TEST_MODE = 'record';
 const join = require('path').join;
 
 const nockBack = require('nock').back;
